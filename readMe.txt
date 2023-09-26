@@ -1,2 +1,2 @@
 Hello
-Second line
+Second line!
